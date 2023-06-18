@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "slomojo"
+  site-url: "https://gautam-e.github.io/slomojo"
+  description: "Learn mojo slowly"
+  repo-branch: main
+  repo-url: "https://github.com/gautam-e/slomojo"
